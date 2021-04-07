@@ -1,0 +1,214 @@
+#map {
+    width: 100%;
+    height: calc(100vh - 50px);
+    z-index: 0;
+}
+
+
+/*** Custom Leaflet Layer Control ***/
+
+.leaflet-control-layers.leaflet-control-layers-expanded.leaflet-control {
+    padding: 15px 8px 8px;
+}
+
+
+/*** Zoom Home ***/
+
+.fa-home {
+    font-size: 15px !important;
+}
+
+
+/*** Hiển thị label ***/
+
+.leaflet-tooltip {
+    background-color: #fff0 !important;
+    border: none !important;
+    white-space: nowrap !important;
+    pointer-events: none !important;
+    box-shadow: none !important;
+}
+
+
+/*** Legend ***/
+
+
+/* Diem KTSD_NDD */
+
+.table-feat-info {
+    padding: 5px !important;
+}
+
+.diem_ktsd_label {
+    position: relative;
+    top: 0px;
+    left: 12px;
+    display: inline-block;
+    font-family: "Arial";
+    font-size: 10px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.diem_ktsd_label_t {
+    color: #4f8aff;
+}
+
+.diem_ktsd_label_f {
+    color: #898989;
+}
+
+.diem_ktsd_divIcon_t,
+.diem_ktsd_divIcon_f,
+.diem_mau {
+    border-color: #ffffff;
+    border-width: 1px;
+    border-style: solid;
+    text-shadow: 1px 1px 2px #181818e3;
+    width: 25px !important;
+    height: 25px !important;
+    text-align: center;
+}
+
+.diem_ktsd_divIcon_t, .diem_mau {
+    border-radius: 50%;
+    /* background-color: #4f8aff; */
+}
+
+.diem_mau {
+    background-color: #fff;
+}
+
+.diem_ktsd_divIcon_f {
+    border-radius: 25%;
+    /* background-color: #898989; */
+}
+
+.diem_ktsd_symbol_t {
+    margin-top: 4px;
+    margin-left: 0px;
+    font-size: 14px;
+    color: #ffffff;
+}
+
+.diem_ktsd_symbol_f {
+    margin-top: 4px;
+    margin-left: 0px;
+    font-size: 14px;
+    color: #ff0000;
+}
+
+
+/*** Vượt ngưỡng sẽ nhấp nháy ***/
+
+@keyframes flickerAnimation {
+    0% {
+        opacity: 1;
+    }
+    50% {
+        opacity: 0.25;
+    }
+    100% {
+        opacity: 1;
+        background-color: yellow;
+        color: red;
+    }
+}
+
+@-o-keyframes flickerAnimation {
+    0% {
+        opacity: 1;
+    }
+    50% {
+        opacity: 0.25;
+    }
+    100% {
+        opacity: 1;
+        background-color: yellow;
+        color: red;
+    }
+}
+
+@-moz-keyframes flickerAnimation {
+    0% {
+        opacity: 1;
+    }
+    50% {
+        opacity: 0.25;
+    }
+    100% {
+        opacity: 1;
+        background-color: yellow;
+        color: red;
+    }
+}
+
+@-webkit-keyframes flickerAnimation {
+    0% {
+        opacity: 1;
+    }
+    50% {
+        opacity: 0.25;
+    }
+    100% {
+        opacity: 1;
+        background-color: yellow;
+        color: red;
+    }
+}
+
+.animate-flicker {
+    -webkit-animation: flickerAnimation 1s infinite;
+    -moz-animation: flickerAnimation 1s infinite;
+    -o-animation: flickerAnimation 1s infinite;
+    animation: flickerAnimation 1s infinite;
+}
+
+/*** Color District ***/
+.tp_cl {
+    background-color: #55ffa7;
+}
+
+.tp_sd {
+    background-color: #ff2abb;
+}
+
+.tp_hongngu {
+    background-color: #24a1ff;
+}
+
+.tan_hong {
+    background-color: #ffa6f1;
+}
+
+.hong_ngu {
+    background-color: #ffc100;
+}
+
+.tam_nong {
+    background-color: #c0b9ff;
+}
+
+.chau_thanh {
+    background-color: #ff7b5a;
+}
+
+.thap_muoi {
+    background-color: #ff89a3;
+}
+
+.cao_lanh {
+    background-color: #3dd241;
+}
+
+.thanh_binh {
+    background-color: #ffff92;
+}
+
+.lap_vo {
+    background-color: #deff49;
+}
+.lai_vung {
+    background-color: #47bbff;
+}
+

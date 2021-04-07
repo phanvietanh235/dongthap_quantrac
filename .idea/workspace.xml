@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8dae1f51-a74d-4399-a299-78ecc56183b9" name="Default Changelist" comment="">
+      <change 
+beforePath="$PROJECT_DIR$/.idea/csv-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/csv-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/3c0043f9-af8e-4d8e-83a1-992e806c3a8e.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/3c0043f9-af8e-4d8e-83a1-992e806c3a8e.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/3c0043f9-af8e-4d8e-83a1-992e806c3a8e/storage_v2/_src_/database/tnn_tiengiang.T53-bQ/schema/public.abK9xQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/3c0043f9-af8e-4d8e-83a1-992e806c3a8e/storage_v2/_src_/database/tnn_tiengiang.T53-bQ/schema/public.abK9xQ.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/3c0043f9-af8e-4d8e-83a1-992e806c3a8e/storage_v2/_src_/database/tnn_tiengiang.T53-bQ/schema/public.abK9xQ.zip" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/3c0043f9-af8e-4d8e-83a1-992e806c3a8e/storage_v2/_src_/database/tnn_tiengiang.T53-bQ/schema/public.abK9xQ.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change 
+beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/assets/css/app.css" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/services/ctkt-mucdichsudung.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/services/ctkt-nguonnuoc.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/services/ktsd-xt/ktsd-xt-info.php" root0="SKIP_INSPECTION" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/baocao-thongke/giayphep-nuocmat.php" root0="SKIP_INSPECTION" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/baocao-thongke/ctkt-nguonnuoc.php" root0="SKIP_INSPECTION" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/services/giayphep/render-chart.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/services/statistic/stats-result-column.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/baocao-thongke/ctkt-mucdichsudung.php" root0="SKIP_INSPECTION" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/services/giayphep/excel-gp-ndd.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/services/basin-option.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/services/statistic/stats-result.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/services/standard-parameter.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/services/config.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/baocao-thongke/js/ctkt-mucdichsudung.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/assets/js/app.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/services/district.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/services/ktsd-ndd/ktsd-ndd-info.php" root0="SKIP_INSPECTION" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/services/danhmuc/form-md-ktsd.php" root0="SKIP_INSPECTION" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/services/ktsd-ndd/save-gp-ndd.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/baocao-thongke/js/giayphep-nuocmat.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/services/services-map/sample_feature_pois.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/baocao-thongke/js/giayphep-nuocduoidat.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/congcu-thongke/js/statistic.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/services/ktsd-ndd/update-ndd-info.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/congcu-thongke/js/statistic-option.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/services/category-option.php" root0="SKIP_INSPECTION" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/congcu-thongke/js/threshold.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/services/view_pgsql/point_map_feature.sql" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/congcu-thongke/js/aqi-wqi.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/congcu-thongke/js/import-excel.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/congtrinh-khaithac/ktsd-nuocduoidat.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/congtrinh-khaithac/ktsd-nuocmat.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/congtrinh-khaithac/giamsatnuoc.php" root0="SKIP_INSPECTION" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/services/view_pgsql/list_all_station.sql" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/congtrinh-khaithac/nguonxathai.php" root0="SKIP_INSPECTION" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/services/giamsat-tnn/render-chart.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/services/giamsat-tnn/render-table.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/congtrinh-khaithac/thamdo.php" root0="SKIP_INSPECTION" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/services/giamsat-tnn/giamsat-info.php" root0="SKIP_INSPECTION" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/congtrinh-khaithac/js/giamsatnuoc.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/services/giamsat-tnn/newest-data.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/congtrinh-khaithac/js/ktsd-nuocduoidat.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/services/giamsat-tnn/parameter-option.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/congtrinh-khaithac/js/thamdo.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/congtrinh-khaithac/js/nguonxathai.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/congtrinh-khaithac/js/ktsd-nuocmat.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/services/services-map/search-feat-poi.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/index.php" root0="SKIP_INSPECTION" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/login.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/map.php" root0="SKIP_INSPECTION" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/assets_map/js/map_function/mapInfo_RanhThua.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/assets_map/js/map_function/mapSearch.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/services/giamsat-tnn/giamsat-nuoc.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/assets_map/js/map_function/config.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/assets_map/js/map_function/mapSide.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/assets_map/js/map_function/mapScript.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/assets_map/js/map_function/mapRanhThua.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/assets_map/js/map_function/mapInfo.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/services/services-map/feat-ktsd-ndd.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/services/services-map/feat-ktsd-nm.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/services/services-map/feat-ktsd-td.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/services/services-map/feat-ktsd-xt.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/services/services-map/feat-poi-xt.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/services/services-map/feat-poi-td.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/services/services-map/feat-poi-nm.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/services/services-map/feat-poi-ndd.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/congcu-thongke/statistic.php" root0="SKIP_INSPECTION" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/send-sms.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/services/statistic/list-thongso.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/README.md" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/services/ktsd-xt/add-xt-info.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/services/ktsd-td/add-td-info.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/services/ktsd-nm/add-nm-info.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/services/statistic/list-station.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/services/ktsd-ndd/add-ndd-info.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/services/giamsat-tnn/giamsat-nuoc-2.php" root0="SKIP_INSPECTION" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/services/statistic/stats-result-chart.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/congcu-thongke/js/statistic-chart.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/assets_map/css/MapStyle.css" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/services/loaicongtrinh-option.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/services/standard-option.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/services/ktsd-nm/ktsd-nm-info.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/services/ktsd-td/ktsd-td-info.php" root0="SKIP_INSPECTION" root1="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectId" id="1mcyuNip9PWrcmYK7Hukn0lH4vg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.jscs" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.detected.package.stylelint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.jscs" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.jscs" value="" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.stylelint" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\GIS and RS\WebApps_localhost_xampp\tiengiang_tnn\services\statistic" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8dae1f51-a74d-4399-a299-78ecc56183b9" name="Default Changelist" comment="" />
+      <created>1609807395368</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609807395368</updated>
+      <workItem from="1609807396914" duration="560000" />
+      <workItem from="1609807975546" duration="2618000" />
+      <workItem from="1609811543239" duration="4971000" />
+      <workItem from="1610004843128" duration="1237000" />
+      <workItem from="1610326088136" duration="14000" />
+      <workItem from="1611065910571" duration="173000" />
+      <workItem from="1611333958609" duration="1168000" />
+      <workItem from="1613960431415" duration="8473000" />
+      <workItem from="1613975346584" duration="7994000" />
+      <workItem from="1613999016697" duration="760000" />
+      <workItem from="1614100474250" duration="227000" />
+      <workItem from="1614563714705" duration="11470000" />
+      <workItem from="1614593773385" duration="1558000" />
+      <workItem from="1614675943183" duration="2817000" />
+      <workItem from="1614939899176" duration="101000" />
+      <workItem from="1615520824985" duration="1175000" />
+      <workItem from="1615536295338" duration="7908000" />
+      <workItem from="1615547154069" duration="32000" />
+      <workItem from="1615790751852" duration="6108000" />
+      <workItem from="1615803880319" duration="26000" />
+      <workItem from="1615804105999" duration="24000" />
+      <workItem from="1615862111864" duration="9031000" />
+      <workItem from="1615944546678" duration="64132000" />
+      <workItem from="1616051722519" duration="23440000" />
+      <workItem from="1616130121847" duration="10702000" />
+    </task>
+    <task id="LOCAL-00001" summary="tiengiang_tnn">
+      <created>1611334891654</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1611334891654</updated>
+    </task>
+    <task id="LOCAL-00002" summary="tiengiang_tnn">
+      <created>1613999208361</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1613999208361</updated>
+    </task>
+    <task id="LOCAL-00003" summary="tiengiang_tnn">
+      <created>1614100602471</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1614100602471</updated>
+    </task>
+    <task id="LOCAL-00004" summary="tiengiang_tnn">
+      <created>1614575434482</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1614575434482</updated>
+    </task>
+    <task id="LOCAL-00005" summary="tiengiang_tnn">
+      <created>1614594083373</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1614594083373</updated>
+    </task>
+    <task id="LOCAL-00006" summary="tiengiang_tnn">
+      <created>1614678726852</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1614678726852</updated>
+    </task>
+    <task id="LOCAL-00007" summary="tiengiang_tnn">
+      <created>1615547169824</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1615547169824</updated>
+    </task>
+    <task id="LOCAL-00008" summary="tiengiang_tnn">
+      <created>1616051648918</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1616051648918</updated>
+    </task>
+    <task id="LOCAL-00009" summary="tiengiang_tnn">
+      <created>1616089382016</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1616089382016</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="tiengiang_tnn" />
+    <option name="LAST_COMMIT_MESSAGE" value="tiengiang_tnn" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="814" y="364" key="#Closure_Linter" timestamp="1609842649451">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="814" y="364" key="#Closure_Linter/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1609842649451" />
+    <state x="1003" y="189" key="#Inspections" timestamp="1613964343390">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1003" y="189" key="#Inspections/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1613964343390" />
+    <state x="691" y="297" key="#JSCS" timestamp="1609842654802">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="691" y="297" key="#JSCS/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1609842654802" />
+    <state x="552" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1609810818538">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1609810818538" />
+    <state x="582" y="24" key="CommitChangelistDialog2" timestamp="1616089380367">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="582" y="24" key="CommitChangelistDialog2/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1616089380367" />
+    <state x="912" y="526" key="NewPhpFileDialog" timestamp="1616087996529">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="912" y="526" key="NewPhpFileDialog/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1616087996529" />
+    <state x="461" y="169" key="SettingsEditor" timestamp="1616130187034">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="461" y="169" key="SettingsEditor/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1616130187034" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1616089389975">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1616089389975" />
+    <state x="-3" y="64" width="1351" height="1033" maximized="true" key="dock-window-1" timestamp="1616132668389">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="-3" y="64" width="1351" height="1033" maximized="true" key="dock-window-1/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1616132668389" />
+    <state x="1920" y="0" width="1363" height="1033" maximized="true" key="dock-window-2" timestamp="1616086980229">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1920" y="0" width="1363" height="1033" maximized="true" key="dock-window-2/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1616086980229" />
+    <state x="815" y="214" width="692" height="794" key="find.popup" timestamp="1616077137799">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="815" y="214" width="692" height="794" key="find.popup/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1616077137799" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1616044304529">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1616044304529" />
+  </component>
+</project>
